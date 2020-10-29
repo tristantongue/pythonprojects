@@ -1,4 +1,4 @@
-
+#This code is an object-oriented approach to a musical keyboard. The most basic objects being notes, and more complex objects being octaves. Running this code will require inputting some basic musical information
 class Note:
 
     rank_names = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
